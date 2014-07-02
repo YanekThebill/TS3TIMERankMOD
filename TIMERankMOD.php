@@ -1,3 +1,4 @@
+<?php
 /**
  * @author YanekThebill
  * @copyright 2014
@@ -455,3 +456,4 @@ foreach ($TSuserdata as $torank)
         }
     }
 }
+?>
